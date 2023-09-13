@@ -9,6 +9,6 @@ No dia de hoje estarei focando em interfaces, vou estar trazendo exercicios que 
 
 --- 
 
-## Exercício 1
+## [Exercício 1](./src/com/exercisesjava/ex01)    
 
-Escreva um programa Java para criar uma interface Forma com o método getArea(). Crie três classes Retangulo, Circulo e Triangulo que implementam a interface Shape. Implemente o método getArea() para cada uma das três classes.
+Escreva um programa Java para criar uma interface Forma com o método getArea(). Crie três classes Retângulo, Circulo e Triângulo que implementam a interface Forma. Implemente o método getArea() para cada uma das três classes.
